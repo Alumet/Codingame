@@ -1,3 +1,8 @@
+'''
+  Author Alumet 2015
+  https://github.com/Alumet/Codingame
+'''
+
 import math
 
 lon = float(input().replace(",","."))
