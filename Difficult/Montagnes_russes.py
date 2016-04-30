@@ -1,3 +1,7 @@
+'''
+  Author Alumet 2015
+  https://github.com/Alumet/Codingame
+'''
 
 l, c, n = [int(i) for i in input().split()]
 groupes=[]
