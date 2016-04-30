@@ -1,3 +1,8 @@
+'''
+  Author Alumet 2015
+  https://github.com/Alumet/Codingame
+'''
+
 light_x, light_y, initial_tx, initial_ty = [int(i) for i in input().split()]
 
 thor_X,thor_Y=initial_tx, initial_ty
