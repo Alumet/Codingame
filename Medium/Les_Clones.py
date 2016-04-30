@@ -1,3 +1,7 @@
+'''
+  Author Alumet 2015
+  https://github.com/Alumet/Codingame
+'''
 
 # nb_floors: number of floors
 # width: width of the area
