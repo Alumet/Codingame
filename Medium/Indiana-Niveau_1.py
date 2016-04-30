@@ -1,3 +1,8 @@
+'''
+  Author Alumet 2015
+  https://github.com/Alumet/Codingame
+'''
+
 # w: number of columns.
 # h: number of rows.
 w, h = [int(i) for i in input().split()]
