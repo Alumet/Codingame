@@ -1,3 +1,7 @@
+'''
+  Author Alumet 2015
+  https://github.com/Alumet/Codingame
+'''
 
 surface_n = int(input())  # the number of points used to draw the surface of Mars.
 for i in range(surface_n):
