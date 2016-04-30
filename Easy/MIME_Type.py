@@ -1,3 +1,7 @@
+'''
+  Author Alumet 2015
+  https://github.com/Alumet/Codingame
+'''
 
 n = int(input())  # Number of elements which make up the association table.
 q = int(input())  # Number Q of file names to be analyzed.
