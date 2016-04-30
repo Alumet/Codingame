@@ -1,4 +1,7 @@
-
+'''
+  Author Alumet 2015
+  https://github.com/Alumet/Codingame
+'''
 road = int(input())  # the length of the road before the gap.
 gap = int(input())  # the length of the gap.
 platform = int(input())  # the length of the landing platform.
