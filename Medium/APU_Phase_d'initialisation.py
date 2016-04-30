@@ -1,3 +1,7 @@
+'''
+  Author Alumet 2015
+  https://github.com/Alumet/Codingame
+'''
 
 width = int(input())  # the number of cells on the X axis
 height = int(input())  # the number of cells on the Y axis
