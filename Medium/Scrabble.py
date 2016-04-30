@@ -1,3 +1,8 @@
+'''
+  Author Alumet 2015
+  https://github.com/Alumet/Codingame
+'''
+
 n = int(input())
 liste=[]
 for i in range(n):
