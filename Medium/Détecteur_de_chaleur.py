@@ -1,3 +1,7 @@
+'''
+  Author Alumet 2015
+  https://github.com/Alumet/Codingame
+'''
 
 # w: width of the building.
 # h: height of the building.
